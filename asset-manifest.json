@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/book-ocean/static/css/main.86a4acdf.chunk.css",
+    "main.js": "/book-ocean/static/js/main.ada4faeb.chunk.js",
+    "main.js.map": "/book-ocean/static/js/main.ada4faeb.chunk.js.map",
+    "runtime-main.js": "/book-ocean/static/js/runtime-main.c05cd4d0.js",
+    "runtime-main.js.map": "/book-ocean/static/js/runtime-main.c05cd4d0.js.map",
+    "static/css/2.a8ba0f7c.chunk.css": "/book-ocean/static/css/2.a8ba0f7c.chunk.css",
+    "static/js/2.857712a8.chunk.js": "/book-ocean/static/js/2.857712a8.chunk.js",
+    "static/js/2.857712a8.chunk.js.map": "/book-ocean/static/js/2.857712a8.chunk.js.map",
+    "index.html": "/book-ocean/index.html",
+    "precache-manifest.d1d1085bccb538d4aaaf7a5a79158757.js": "/book-ocean/precache-manifest.d1d1085bccb538d4aaaf7a5a79158757.js",
+    "service-worker.js": "/book-ocean/service-worker.js",
+    "static/css/2.a8ba0f7c.chunk.css.map": "/book-ocean/static/css/2.a8ba0f7c.chunk.css.map",
+    "static/css/main.86a4acdf.chunk.css.map": "/book-ocean/static/css/main.86a4acdf.chunk.css.map",
+    "static/js/2.857712a8.chunk.js.LICENSE.txt": "/book-ocean/static/js/2.857712a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c05cd4d0.js",
+    "static/css/2.a8ba0f7c.chunk.css",
+    "static/js/2.857712a8.chunk.js",
+    "static/css/main.86a4acdf.chunk.css",
+    "static/js/main.ada4faeb.chunk.js"
+  ]
+}
